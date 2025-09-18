@@ -1,0 +1,6 @@
+seaborn
+plotly
+nbformat
+bokeh
+bokeh_sampledata
+matplotlib
